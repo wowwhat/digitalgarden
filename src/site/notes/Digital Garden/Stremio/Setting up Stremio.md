@@ -1,32 +1,35 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/stremio/setting-up-stremio/","title":"Setting up Stremio","tags":["stremio setup"]}
+{"dg-publish":true,"permalink":"/digital-garden/stremio/setting-up-stremio/","title":"Creating a Stremio Account","tags":["stremio setup"]}
 ---
 
 
-# Setting Up Stremio (Desktop)
+# Creating a Stremio Account
 
-## Step 1: Create a Stremio Account
-- Visit [https://www.stremio.com](https://www.stremio.com)
-- Download the desktop app for Windows, Mac, or Linux.
-- Open Stremio and **create a new account** using your email address.
-  - It's recommended to use an email so you can sync your add-ons and settings across devices.
+Welcome to the world of seamless streaming with **Stremio**! Before diving into the vast array of movies, TV shows, and live channels, let's set up your account.
 
 ---
 
-## Step 2: Install Add-ons
+## Step 1: Sign Up on Stremio Web
 
-### USA TV (Live TV)
-- Visit the USA TV add-on page: [USA TV Add-on](https://stremiogetaddons.com/addon/ghdlhhedojbmmnlmcgkcaedjmnkpgnae/streama)
-- Click **Install** to add it to your Stremio account.
-
-### Torrentio (Movies & TV Shows)
-- Visit the Torrentio add-on page: [Torrentio Setup Page](https://torrentio.strem.fun/setup)
-- Follow the instructions on the setup page to generate a custom Torrentio URL.
-- Install Torrentio into your Stremio account using the custom URL.
+1. **Visit** [https://web.stremio.com](https://web.stremio.com).
+2. **Click** on **"Sign Up"**.
+3. **Enter** your email address.
+4. **Choose** a password.
+   - *Optional:* For easier support, you may set your password as `streamingpassword`. This allows me to assist you with setup or troubleshooting. You can change it later for added security.
 
 ---
 
-## Step 3: Configure Torrentio
-- See [Torrentio Settings](Configuring%20Stremio%20Addons.md) for full configuration instructions.
+## What is Stremio?
+
+**Stremio** is a modern media center that aggregates content from various sources, allowing you to:
+
+- **Stream** movies, TV series, and live TV channels.
+- **Discover** new content through recommendations.
+- **Organize** your media library with ease.
+- **Sync** your watch history and preferences across devices.
+
+It's a free, user-friendly platform that brings all your favorite entertainment into one place.
 
 ---
+
+Once your account is set up, you're ready to explore and customize your Stremio experience!
