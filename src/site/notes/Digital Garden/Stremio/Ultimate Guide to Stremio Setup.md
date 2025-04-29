@@ -22,7 +22,7 @@ We'll walk through everything: installing Stremio, setting up essential add-ons,
 
 ---
 
-## ⚙️ 2. [[Digital Garden/Stremio/Configuring Torrentio Settings\|Configuring Torrentio Settings]]
+## ⚙️ 2. [[Digital Garden/Stremio/Configuring Stremio Settings\|Configuring Stremio Settings]]
 - Setting up Torrentio properly for best performance
 - Connect to Debrid services
 - Hide low-quality streams

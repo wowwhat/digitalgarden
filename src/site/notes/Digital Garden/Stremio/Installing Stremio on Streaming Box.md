@@ -20,8 +20,7 @@
 
 ---
 
-## Step 3: Add Add-ons
-- Add **USA TV** and **Torrentio** just like on desktop (they sync if you used email login).
+
 
 > **Tip**: Use a physical keyboard or QR code scanning for faster login if possible!
 

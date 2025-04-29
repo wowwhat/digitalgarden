@@ -27,6 +27,6 @@
 ---
 
 ## Step 3: Configure Torrentio
-- See [Torrentio Settings](Configuring%20Torrentio%20Settings.md) for full configuration instructions.
+- See [Torrentio Settings](Configuring%20Stremio%20Settings.md) for full configuration instructions.
 
 ---
