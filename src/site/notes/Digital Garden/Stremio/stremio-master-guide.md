@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/stremio/stremio-master-guide/","title":"Ultimate Guide to Stremio Setup","tags":["stremio index"]}
+{"dg-publish":true,"permalink":"/digital-garden/stremio/stremio-master-guide/","title":"Ultimate Guide to Stremio Setup","tags":["stremio","index"]}
 ---
 
 
