@@ -4,4 +4,4 @@
 
 Home
 
-[[Digital Garden/Stremio/stremio-master-guide\|stremio-master-guide]]
+[[Digital Garden/Stremio/Ultimate Guide to Stremio Setup\|Ultimate Guide to Stremio Setup]]
