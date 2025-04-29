@@ -63,4 +63,6 @@ If you ever get stuck, check back to this guide or each individual help article.
 
 ---
 
+[[Digital Garden/Stremio/FAQ's\|FAQ's]]
+
 Happy streaming! 🎬🍿
