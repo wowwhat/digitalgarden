@@ -22,20 +22,20 @@ We'll walk through everything: installing Stremio, setting up essential add-ons,
 
 ---
 
-## ⚙️ 2. [[Digital Garden/Stremio/Configuring Stremio Settings\|Configuring Stremio Settings]]
-- Setting up Torrentio properly for best performance
-- Connect to Debrid services
-- Hide low-quality streams
-- Prioritize cached torrents
-
----
-
-## 🔄 3. [[Digital Garden/Stremio/Debrid Service Setup\|Debrid Service Setup]]
+## 🔄 2. [[Digital Garden/Stremio/Debrid Service Setup\|Debrid Service Setup]]
 - Which debrid service is better?
 - How Real-Debrid and All-Debrid work
 - How to sign up for both
 - Tips for avoiding payment issues
 
+---
+
+## ⚙️ 3. [[Digital Garden/Stremio/Configuring Stremio Addons\|Configuring Stremio Addons]]
+- Setting up Torrentio properly for best performance
+- Connect to Debrid services
+- Hide low-quality streams
+- Prioritize cached torrents
+- Live TV Addon
 ---
 
 ## 📺 4. [[Digital Garden/Stremio/Installing Stremio on Streaming Box\|Installing Stremio on Streaming Box]]
