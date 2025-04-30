@@ -48,7 +48,7 @@ We'll walk through everything: installing Stremio, setting up essential add-ons,
 ## 📱 5. [[Digital Garden/Stremio/Watching Stremio on iOS\|Watching Stremio on iOS]]
 - How to use Stremio on iPhone/iPad
 - Creating a Safari home screen shortcut
-- Installing VLC or MXPlayer
+- Installing VLC or Outplayer
 - Setting external video players and understanding playback limitations
 
 ---

@@ -17,7 +17,7 @@
 - Open the App Store.
 - Install either:
   - [VLC for Mobile](https://apps.apple.com/app/vlc-for-mobile/id650377962)  
-  - [Outplayer]([https://apps.apple.com/app/mx-player/id922939805](https://apps.apple.com/us/app/outplayer/id1449923287))
+  - [Outplayer](https://apps.apple.com/us/app/outplayer/id1449923287)
 
 ---
 
