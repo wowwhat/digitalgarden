@@ -17,15 +17,17 @@
 - Open the App Store.
 - Install either:
   - [VLC for Mobile](https://apps.apple.com/app/vlc-for-mobile/id650377962)  
-  - [MXPlayer](https://apps.apple.com/app/mx-player/id922939805)
+  - [Outplayer]([https://apps.apple.com/app/mx-player/id922939805](https://apps.apple.com/us/app/outplayer/id1449923287))
 
 ---
 
 ## Step 3: Set External Player in Stremio
-- Open Stremio Web.
-- Go to **Settings** → **Select External Player**.
+- Open Stremio Web. - web.stremio.com
+- Go to **Settings** →
+- ![IMG_5582.jpg](/img/user/Assets/IMG_5582.jpg)
+- **Select External Player**.
 - Choose VLC or MXPlayer.
-
+![IMG_5584.jpg](/img/user/Assets/IMG_5584.jpg)
 > **Note:**  
 When watching via an external video player:
 - Playback position **won’t sync** across devices.
