@@ -5,3 +5,5 @@
 Home
 
 [[Digital Garden/Stremio/Ultimate Guide to Stremio Setup\|Ultimate Guide to Stremio Setup]]
+
+[[Digital Garden/HA/Home Assistant Automation Tips\|Home Assistant Automation Tips]]
