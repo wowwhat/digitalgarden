@@ -15,10 +15,7 @@ We'll walk through everything: installing Stremio, setting up essential add-ons,
 # 🗺️ Table of Contents
 
 ## 🖥️ 1. [[Digital Garden/Stremio/Setting up Stremio\|Setting up Stremio]]
-- Install Stremio on a computer (Windows/Mac/Linux)
-- Create your account
-- Install **USA TV** for live channels
-- Install **Torrentio** for movies and shows
+- Creating a Stremio account
 
 ---
 

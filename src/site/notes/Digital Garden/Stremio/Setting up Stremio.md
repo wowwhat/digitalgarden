@@ -15,7 +15,7 @@ Welcome to the world of seamless streaming with **Stremio**! Before diving into 
 2. **Click** on **"Sign Up"**.
 3. **Enter** your email address.
 4. **Choose** a password.
-   - *Optional:* For easier support, you may set your password as `streamingpassword`. This allows me to assist you with setup or troubleshooting. You can change it later for added security.
+   - *Optional:* For easier support, you may set your password as `streamingpassword@1`. This allows me to assist you with setup or troubleshooting. You can change it later for added security.
 
 ---
 
