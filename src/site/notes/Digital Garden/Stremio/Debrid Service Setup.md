@@ -25,9 +25,8 @@ When using Torrentio with Stremio, a **Debrid service** is essential to access h
 ### 🔐 How to Obtain Your Real-Debrid API Key
 
 1. **Log in** to your Real-Debrid account at [real-debrid.com](https://real-debrid.com).
-2. Navigate to the **"My Account"** section.
-3. Click on the **"API"** tab or directly visit [https://real-debrid.com/apitoken](https://real-debrid.com/apitoken).
-4. **Copy** the API token displayed on the page.
+2. Click here [https://real-debrid.com/apitoken](https://real-debrid.com/apitoken).
+3. **Copy** the API token displayed on the page.
 
 > **Note:** This token is used to authenticate third-party applications like Torrentio.
 
@@ -38,10 +37,8 @@ When using Torrentio with Stremio, a **Debrid service** is essential to access h
 1. Log in and go to [Premium Offers](https://real-debrid.com/premium).
 2. Choose a subscription duration (15, 30, 90, or 180 days).
 3. Select a payment method:
-   - **PayPal**, **Credit Card**, or **Cryptocurrency** are available.
-4. Proceed with checkout manually (there is no auto-pay feature).
-
-> 🔄 **Free Trial:** Real-Debrid offers a limited free trial during off-peak hours (6 AM to 12 PM CET).
+   - **Credit Card**, or **Cryptocurrency** are available in the US.
+   - Proceed with checkout manually (there is no auto-pay feature).
 
 ---
 
@@ -59,11 +56,10 @@ When using Torrentio with Stremio, a **Debrid service** is essential to access h
 ### 🔐 How to Generate Your All-Debrid API Key
 
 1. **Log in** to your All-Debrid account at [alldebrid.com](https://alldebrid.com).
-2. Click on your **user icon** in the top-right corner and select **"My Account"**.
-3. Navigate to the **"API Keys"** section.
-4. In the **"Create a new API key"** field, enter a **label** to identify the key (e.g., "Torrentio").
-5. Click the **green "Create"** button.
-6. **Copy** the newly generated API key for use in third-party applications.
+2. Click on **"API Keys"** section or [click this link](https://alldebrid.com/apikeys/)
+3. In the **"Create a new API key"** field, enter a **label** to identify the key (e.g., "Torrentio").
+4. Click the **green "Create"** button.
+5. **Copy** the newly generated API key for use in third-party applications.
 
 > **Security Tip:** Treat your API keys like passwords. Do not share them publicly.
 
@@ -73,11 +69,10 @@ When using Torrentio with Stremio, a **Debrid service** is essential to access h
 
 1. Log in and visit the [Premium section](https://alldebrid.com/offers/).
 2. Choose a subscription duration.
-3. Select from multiple payment options:
-   - **Credit Card**, **PayPal**, **Cryptocurrency**, or **Auto-renew with card on file**.
+3. Enter Card Details
 4. Confirm payment and activate premium access.
 
-> 🆓 **Free Trial:** All-Debrid offers trial tokens to test the service upon sign-up.
+> 🆓 **Free Trial:** All-Debrid offers free 7 day trial tokens to test the service upon sign-up with text message verification of the account.
 
 ---
 

@@ -109,8 +109,23 @@ If you’re unsure, it’s safe to leave both of these unchecked.
 
 After setting all your preferences:
 - Click Save.
-- A unique `.json` link will be generated.
-- Paste that link into the **Add-on search bar** under Community Add-ons in Stremio and install it.
+- Once you click the install button your web browser will ask to open the link in Stremio and you will choose one of the following routes
+
+1. **If you have installed the Stremio desktop app** 
+   Choose to open the link in that program. 
+	1. Choose to open the link in that program. 
+	2. Then Click the install button from within the Stremio Desktop App
+	   
+2. **If you don't have the Stremio desktop app installed
+
+	1. Click cancel on the prompt
+	2. Right click the "Install" button
+	3. Go to [web.stremio.com](web.stremio.com)and Click on the Puzzle Piece logo for the Addons page, on the left hand side. Alternatively, [click this link.](https://web.stremio.com/#/addons)
+	4. Click "Add Addon"
+	5. Paste that link into the **Add-on search bar** under Community Add-ons in Stremio
+	6. Click "Install" to finalize the install of the Torrentio Addon.
+
+
 
 ---
 
