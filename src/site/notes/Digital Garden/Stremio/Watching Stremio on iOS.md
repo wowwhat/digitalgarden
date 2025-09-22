@@ -26,7 +26,7 @@
 - Go to **Settings** →
 - ![IMG_5582.jpg](/img/user/Assets/IMG_5582.jpg)
 - **Select External Player**.
-- Choose VLC or MXPlayer.
+- Choose VLC or Outplayer.
 ![IMG_5584.jpg](/img/user/Assets/IMG_5584.jpg)
 > **Note:**  
 When watching via an external video player:
