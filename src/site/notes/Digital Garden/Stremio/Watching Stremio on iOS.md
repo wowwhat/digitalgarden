@@ -17,7 +17,7 @@
 - Open the Apple App Store on your iOS device.
 - Install either:
   - [VLC for Mobile](https://apps.apple.com/app/vlc-for-mobile/id650377962)  
-  - [Outplayer](https://apps.apple.com/us/app/outplayer/id1449923287)
+  - [Outplayer](https://apps.apple.com/us/app/outplayer/id1449923287) (OutPlayer is my favorite out of the two)
 
 ---
 
